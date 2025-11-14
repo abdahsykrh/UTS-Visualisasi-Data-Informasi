@@ -1,7 +1,7 @@
 # UTS Visualisasi Data & Informasi  
 **Nama:** Abdah Syakiroh Gustian  
 **NPM:** 220660121144  
-**Kelas:** Informatika VII-A  
+**Kelas:** Informatika ISSI VII-B  
 
 ---
 
@@ -31,7 +31,7 @@ Repositori ini berisi beberapa komponen penting untuk memenuhi Ujian Tengah Seme
 ## 🌐 Dashboard GitHub Pages  
 Seluruh visualisasi ditampilkan dalam satu halaman web:  
 
-👉 https://abdahsykrh.github.io/UTS-Visualisasi-Data-Informasi/
+👉 [https://github.com/abdahsykrh/UTS-Visualisasi-Data-Informasi]
 
 ---
 
