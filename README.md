@@ -5,42 +5,51 @@
 
 ---
 
-## Deskripsi Singkat
-Repositori ini berisi beberapa komponen penting untuk memenuhi UTS mata kuliah Visualisasi Data & Informasi, yaitu:
+## 📌 Deskripsi Singkat  
+Repositori ini berisi beberapa komponen penting untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah **Visualisasi Data & Informasi**, yaitu:
 
 - Dataset gempa bumi (`earthquakes_cleaned_100.csv`)
 - Source code preprocessing (`preprocess.py`)
-- Tiga visualisasi Datawrapper
-- Dashboard GitHub Pages yang menampilkan visualisasi secara online
+- Tiga visualisasi Datawrapper (Line Chart, Bar Chart, Symbol Map)
+- Dashboard GitHub Pages untuk menampilkan visualisasi secara online
 
 ---
 
-## Link Visualisasi
+## 📊 Link Visualisasi Datawrapper
 
-### 1️⃣ Tren Kekuatan Gempa (Line Chart)  
-https://datawrapper.dwcdn.net/jIQgg/1/
+### 1️⃣ **Tren Kekuatan Gempa (Line Chart)**  
+🔗 https://datawrapper.dwcdn.net/jIQgg/1/
 
-### 2️⃣ Rata-Rata Gempa per Wilayah (Bar Chart)  
-https://datawrapper.dwcdn.net/Z8opl/1/
+### 2️⃣ **Rata-Rata Gempa per Wilayah (Bar Chart)**  
+🔗 https://datawrapper.dwcdn.net/Z8opl/1/
 
-### 3️⃣ Sebaran Gempa Indonesia (Symbol Map)  
-https://datawrapper.dwcdn.net/bAa5S/1/
-
----
-
-## Dashboard GitHub Pages  
-Semua visualisasi ditampilkan dalam 1 halaman web:
-https://abdahsykrh.github.io/UTS-Visualisasi-Data-Informasi/
+### 3️⃣ **Sebaran Gempa Bumi Indonesia (Symbol Map)**  
+🔗 https://datawrapper.dwcdn.net/bAa5S/1/
 
 ---
 
-## Dataset  
-- `earthquakes_cleaned_100.csv`  
-Dataset ini merupakan versi pembersihan dari data gempa bumi Indonesia (2008–2025) berasal dari Kaggle.
+## 🌐 Dashboard GitHub Pages  
+Seluruh visualisasi ditampilkan dalam satu halaman web:  
+
+👉 https://abdahsykrh.github.io/UTS-Visualisasi-Data-Informasi/
 
 ---
 
-## Source Code  
+## 🗂 Dataset  
+**File:** `earthquakes_cleaned_100.csv`  
+Dataset ini merupakan data gempa bumi Indonesia tahun 2008–2025 yang sudah dibersihkan dan dipilih sebanyak 100 data untuk visualisasi.
+
+---
+
+## 💻 Source Code  
 **File:** `preprocess.py`  
-**Fungsi:**  
-- Membersihkan
+
+### Fungsi utama:
+- Membersihkan dataset (drop missing values)
+- Mengonversi kolom tanggal ke format datetime
+- Membuat kolom **Year** dan **Month**
+- Menyimpan data hasil preprocessing dalam bentuk CSV yang siap divisualisasikan
+
+---
+
+## 📁 Struktur Folder
