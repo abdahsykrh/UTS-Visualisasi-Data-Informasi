@@ -54,6 +54,8 @@ Dataset ini merupakan data gempa bumi Indonesia tahun 2008–2025 yang sudah dib
 
 ## 📁 Struktur Folder
 
+📁 Struktur Folder
+
 ```
 UTS-Visualisasi-Data-Informasi/
 │
