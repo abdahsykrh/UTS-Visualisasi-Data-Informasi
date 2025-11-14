@@ -53,3 +53,12 @@ Dataset ini merupakan data gempa bumi Indonesia tahun 2008–2025 yang sudah dib
 ---
 
 ## 📁 Struktur Folder
+
+```
+UTS-Visualisasi-Data-Informasi/
+│
+├── index.html                   → Dashboard GitHub Pages
+├── README.md                    → Dokumentasi UTS
+├── earthquakes_cleaned_100.csv  → Dataset gempa bumi Indonesia (100 data)
+└── preprocess.py                → Script preprocessing dataset
+```
